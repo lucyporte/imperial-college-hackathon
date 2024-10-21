@@ -1,0 +1,6 @@
+
+streamlit 
+numpy
+st-supabase-connection
+polars
+streamlit-pills
