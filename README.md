@@ -39,6 +39,13 @@ or update it by running
 
 `fly deploy`
 
+# Contributors
+Anthony Duncalf
+Mycchaka Kleinbort
+Lucy Porte
+Shresth Shrivastava
+Mara Köhne
+
 ---
 
 I've removed the data in the zero-viz-brokers/.streamlit/secrets.toml as it contains the credentials for the Supabase database. You can find the credentials in the supabase dashboard.
