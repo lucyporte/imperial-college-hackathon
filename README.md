@@ -41,9 +41,13 @@ or update it by running
 
 # Contributors
 Anthony Duncalf
+
 Mycchaka Kleinbort
+
 Lucy Porte
+
 Shresth Shrivastava
+
 Mara Köhne
 
 ---
